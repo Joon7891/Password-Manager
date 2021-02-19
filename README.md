@@ -1,1 +1,5 @@
-# CLI-Password-Manager
+# Password-Manager
+
+## Required Libraries
+- pycrypto
+- hashlib
