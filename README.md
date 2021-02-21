@@ -3,3 +3,4 @@
 ## Required Libraries
 - pycrypto
 - hashlib
+- click
